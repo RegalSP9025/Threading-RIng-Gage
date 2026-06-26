@@ -1,0 +1,6 @@
+ How Your Workflow Looks Now:
+Save your original micrometer sheet in your templates/ folder as calibration_micrometers.xlsx.
+
+Save this new thread ring gage workbook inside the same templates/ folder as calibration_thread_ring_gages.xlsx.
+
+Open your terminal and run the updated master script:
